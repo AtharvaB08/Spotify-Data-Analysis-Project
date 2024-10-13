@@ -1,5 +1,9 @@
 # Spotify Data Analysis Project
 
+### The Datasets used are large enough so here's the link to refer those csv files on kaggle 
+### 1. Tracks: - https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+### 2. Artists: - https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
+
 ## Objective
 The objective of this project is to analyze Spotify's music dataset to uncover insights into various characteristics of songs, including their popularity, danceability, energy, and other audio features. The goal is to explore trends and relationships within the data that could help in understanding what makes certain tracks more popular or distinct in terms of their musical properties.
 
